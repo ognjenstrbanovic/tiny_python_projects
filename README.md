@@ -72,3 +72,7 @@ This will allow you to `git pull upstream master` in order to get updates. When 
 # Copyright
 
 © Ken Youens-Clark 2019-2020
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+![Book Cover](https://github.com/ognjenstrbanovic/tiny_python_projects/blob/master/ogi_images_gifs/Youens-Clark-TPP-HI.png)
