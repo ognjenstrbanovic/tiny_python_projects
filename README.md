@@ -1,3 +1,5 @@
+![Book Cover](https://github.com/ognjenstrbanovic/tiny_python_projects/blob/master/ogi_images_gifs/Youens-Clark-TPP-HI.png)
+
 # Introduction
 
 This is the code repository for the Manning Publications book, _Tiny Python Projects_, by Ken Youens-Clark:
@@ -74,5 +76,3 @@ This will allow you to `git pull upstream master` in order to get updates. When 
 © Ken Youens-Clark 2019-2020
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-![Book Cover](https://github.com/ognjenstrbanovic/tiny_python_projects/blob/master/ogi_images_gifs/Youens-Clark-TPP-HI.png)
